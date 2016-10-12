@@ -1,6 +1,6 @@
 #!/bin/python
 # encoding: utf-8
-
+__author__ = "cxtan"
 import Image, ImageDraw, ImageFont
 import os, sys
 import re
